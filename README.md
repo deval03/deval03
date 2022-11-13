@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ashish Kumar.</h1>
 <h3 align="center">Computer Science Student who loves Engineering and Always curious to learn something new.</h3>
-
+[<img align="right" alt="Coding" width="500" src="https://github.com/deval03/deval03/blob/main/image_processing20210513-24676-xhpxj8.gif">]
 - 💬 Ask me about **C, Python, HTML, CSS, Salesforce**
 
 - 📫 How to reach me **deval.ashish03@gmail.com**
