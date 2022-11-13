@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar.</h1>
 <h3 align="center">Computer Science Student who loves Engineering and Always curious to learn something new.</h3>
 <img align="right" alt="Coding" width="500" src="https://github.com/deval03/deval03/blob/main/image_processing20210513-24676-xhpxj8.gif">
-💬 Ask me about "C, Python, HTML, CSS, Salesforce"
+💬 Ask me about 𝗖, 𝗣𝘆𝘁𝗵𝗼𝗻, 𝗛𝗧𝗠𝗟, 𝗖𝗦𝗦, 𝗦𝗮𝗹𝗲𝘀𝗳𝗼𝗿𝗰𝗲
 
 - 📫 How to reach me **deval.ashish03@gmail.com**
 
