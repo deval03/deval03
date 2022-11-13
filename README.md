@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar.</h1>
 <h3 align="center">A boy trying to figure out some good stuff !!!</h3>
 <img align="right" alt="Coding" width="500" src="https://github.com/deval03/deval03/blob/main/image_processing20210513-24676-xhpxj8.gif">
-- 💬 Ask me about **C, Python, HTML, CSS, Salesforce**
+- 💬 Ask me about **𝗖, 𝗣𝘆𝘁𝗵𝗼𝗻, 𝗛𝗧𝗠𝗟, 𝗖𝗦𝗦, 𝗦𝗮𝗹𝗲𝘀𝗳𝗼𝗿𝗰𝗲**
 
 - 📫 How to reach me **deval.ashish03@gmail.com**
 
@@ -19,11 +19,12 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/deval03"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="deval03" /></a></p><br><br>
-<br>
-<br>
+<h3 align="left">📊 GitHub Stats:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deval03&show_icons=true&locale=en&layout=compact" alt="deval03" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deval03&show_icons=true&locale=en" alt="deval03" /></p> -->
+![](https://github-readme-stats.vercel.app/api?username=deval03&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=deval03&theme=gotham&hide_border=false)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deval03&theme=gotham)](https://github.com/deval03/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=deval03&show_icons=true&locale=en" alt="deval03" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deval03&" alt="deval03" /></p>
+
