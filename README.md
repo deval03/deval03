@@ -1,5 +1,5 @@
+![logo](https://github.com/deval03/deval03/blob/main/20221113_222611_0000.png)
 
-[![MasterHead](https://ibb.co/bW2JMdW)]
 <h1 align="center">Hi 👋, I'm Ashish Kumar.</h1>
 <h3 align="center">Computer Science Student who loves Engineering and Always curious to learn something new.</h3>
 
