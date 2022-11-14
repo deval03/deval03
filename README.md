@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/deval03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/mast#er/src/imag#es/icons/Social/linked-in-alt.svg" alt="deval03" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/deval03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deval03" height="30" width="40" /></a>
 </p>
 
 ---
@@ -32,15 +32,15 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deval03&show_icons=true&locale=en" alt="deval03" /></p> -->
 
-#---
+
 
 ![](https://github-readme-#####stats.vercel.app/api?username=deval03&theme=react-dark&hide_border=false&include_all_commits=t-ue&count_private=true)<br/>
 
----
+
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=deval03&theme=react-dark&hide_border=false)<br/>
 
----
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deval03&theme=react-dark)](https://github.com/deval03/github-readme-stats)
 
