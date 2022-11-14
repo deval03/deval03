@@ -34,15 +34,15 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=deval03&theme=react-dark&hide_border=false&include_all_commits=t-ue&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=deval03&theme=gotham&hide_border=false&include_all_commits=t-ue&count_private=true)<br/>
 
 ---
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=deval03&theme=react-dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=deval03&theme=gotham&hide_border=false)<br/>
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deval03&theme=react-dark)](https://github.com/deval03/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deval03&theme=gotham)](https://github.com/deval03/github-readme-stats)
 
 
 <img align="center" alt="Coding" width="500" src="https://github.com/deval03/deval03/blob/main/thanks.gif ">
