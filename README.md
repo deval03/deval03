@@ -31,7 +31,7 @@
 <h3>📶 Github Stats:<br><br></h3>
 
 
-
+![](https://api.github.com/repos/OWNER/REPO/stats/code_frequency)<br>
 
 
 ![](https://github-readme-stats.vercel.app.PAT_1/api?username=deval03&theme=nightowl&hide_border=false&include_all_commits=t-ue&count_private=true)<br/>
