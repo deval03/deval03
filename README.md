@@ -31,10 +31,10 @@
 <h3>📶 Github Stats:<br><br></h3>
 
 
-![](https://api.github.com/repos/OWNER/REPO/stats/code_frequency)<br>
 
 
-![](https://github-readme-stats.vercel.app.PAT_1/api?username=deval03&theme=nightowl&hide_border=false&include_all_commits=t-ue&count_private=true)<br/>
+
+![](https://github-readme-stats.vercel.app/PAT_1/api?username=deval03&theme=nightowl&hide_border=false&include_all_commits=t-ue&count_private=true)<br/>
 
 ---
 
@@ -42,7 +42,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app.PAT_1/api/top-langs/?username=deval03&theme=nightowl)](https://github.com/deval03/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/PAT_1/api/top-langs/?username=deval03&theme=nightowl)](https://github.com/deval03/github-readme-stats)
 
 
 <img align="center" alt="Coding" width="500" src="https://github.com/deval03/deval03/blob/main/thanks.gif ">
